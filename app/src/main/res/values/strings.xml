@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">GetLocationByService</string>
+    <string-array name="language_option">
+        <item>English</item>
+        <item>Vietnamese</item>
+    </string-array>
+
+
+</resources>
